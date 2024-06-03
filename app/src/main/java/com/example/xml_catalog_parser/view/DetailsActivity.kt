@@ -1,3 +1,4 @@
+package com.example.xml_catalog_parser.view
 import android.os.Bundle
 import androidx.activity.viewModels
 import androidx.appcompat.app.AppCompatActivity

@@ -1,3 +1,4 @@
+package com.example.xml_catalog_parser.view
 import android.content.Intent
 import android.os.Bundle
 import androidx.activity.viewModels
